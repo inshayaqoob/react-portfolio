@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Insha Yaqoob",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -136,8 +136,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "inshayaqoob513@gmail.com",
+    YOUR_FONE: "03015685103",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
